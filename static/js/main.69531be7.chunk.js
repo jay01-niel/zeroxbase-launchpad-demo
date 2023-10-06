@@ -1364,7 +1364,7 @@
                                     }),
                                     Object(h.jsxs)("li", {
                                       children: [
-                                        "Choose the wallet where you have your BNB funds, ",
+                                        "Choose the wallet where you have your ETH funds, ",
                                         Object(h.jsx)("em", {
                                           children: "Metamask or WalletConnect",
                                         }),
