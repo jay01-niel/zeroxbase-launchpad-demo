@@ -902,7 +902,7 @@
                                 color: "#ffffff",
                                 fontFamily: "Secular One",
                                 textAlign: "center",
-                                children: "Buy EIYE Coin",
+                                children: "Buy ZXB",
                               }),
                               Object(h.jsxs)(u.a, {
                                 mt: 2,
@@ -948,7 +948,7 @@
                                         type: "text",
                                         id: "standard-basic",
                                         variant: "standard",
-                                        placeholder: "Enter BNB",
+                                        placeholder: "Enter Base ETH",
                                         value: b,
                                         onChange: function (e) {
                                           x(e.target.value);
@@ -987,7 +987,7 @@
                                             alt: "",
                                           }),
                                           " ",
-                                          "BNB",
+                                          "Base ETH",
                                         ],
                                       }),
                                     ],
@@ -1065,7 +1065,7 @@
                                             alt: "",
                                           }),
                                           " ",
-                                          "EYC",
+                                          "ZXB",
                                         ],
                                       }),
                                     ],
@@ -1172,7 +1172,7 @@
                                     fontSize: "16px",
                                     color: "#ffffff",
                                     fontFamily: "Chakra Petch",
-                                    children: "EIYE Coin Token",
+                                    children: "ZeroXBase",
                                   }),
                                 ],
                               }),
@@ -1198,7 +1198,7 @@
                                     fontSize: "16px",
                                     color: "#ffffff",
                                     fontFamily: "Chakra Petch",
-                                    children: "EIYC",
+                                    children: "ZXB",
                                   }),
                                 ],
                               }),
@@ -1242,7 +1242,7 @@
                                     fontSize: "16px",
                                     color: "#ffffff",
                                     fontFamily: "Chakra Petch",
-                                    children: "Tokens Per BNB",
+                                    children: "Tokens Per ETH",
                                   }),
                                   Object(h.jsx)(u.a, {
                                     fontWeight: "600",
@@ -1250,7 +1250,7 @@
                                     fontSize: "16px",
                                     color: "#ffffff",
                                     fontFamily: "Chakra Petch",
-                                    children: "1000000",
+                                    children: "1000000000",
                                   }),
                                 ],
                               }),
@@ -1276,7 +1276,7 @@
                                     fontSize: "16px",
                                     color: "#ffffff",
                                     fontFamily: "Chakra Petch",
-                                    children: ["0.01 BNB", " "],
+                                    children: ["0.01 BASE ETH", " "],
                                   }),
                                 ],
                               }),
@@ -1302,7 +1302,7 @@
                                     fontSize: "16px",
                                     color: "#ffffff",
                                     fontFamily: "Chakra Petch",
-                                    children: ["200 BNB", " "],
+                                    children: ["10 BASE ETH", " "],
                                   }),
                                 ],
                               }),
@@ -1380,7 +1380,7 @@
                                     }),
                                     Object(h.jsx)("li", {
                                       children:
-                                        "Enter the amount of BNB you want to buy ",
+                                        "Enter the amount of ETH you want to buy ",
                                     }),
                                   ],
                                 }),
@@ -1469,7 +1469,7 @@
                                         }),
                                         Object(h.jsx)("em", {
                                           children: Object(h.jsx)("b", {
-                                            children: "EIYE Coin Website",
+                                            children: "ZeroXBase Website",
                                           }),
                                         }),
                                         ". a prompt shows, choose network and click ",
@@ -1490,7 +1490,7 @@
                                     }),
                                     Object(h.jsx)("li", {
                                       children:
-                                        "Once connected, enter the amount of EIYE Coin you want to buy with BNB ",
+                                        "Once connected, enter the amount of ZXB you want to buy with ETH ",
                                     }),
                                   ],
                                 }),
