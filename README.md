@@ -1,2 +1,2 @@
 # presalewebsitebsc
-Presale website set for bsc , can work on any network
+Presale website set for ZeroXBase , can work on any network
